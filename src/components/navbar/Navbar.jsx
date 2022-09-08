@@ -5,7 +5,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 
 
-export const Navbar = () => {
+const Navbar = () => {
 
 
     const handleOnClick = () => {
@@ -21,7 +21,7 @@ export const Navbar = () => {
                 <div className="input_wrapper">
                     <div className="search">
                         <input placeholder="Suchen..." type="search" />
-                        <SearchOutlinedIcon />
+                        <SearchOutlinedIcon className='search_icon'/>
                     </div>                    
                 </div>                
                 <div className="items">                    
@@ -37,4 +37,6 @@ export const Navbar = () => {
         
     );
 };
+
+export default Navbar;
 
