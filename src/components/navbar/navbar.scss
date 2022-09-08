@@ -9,7 +9,6 @@
   display: flex;
   align-items: center;
   font-size: 14px;
-  color: #555;
 }
 
 .wrapper {
@@ -70,5 +69,7 @@
     .icon{
         font-size: 20px;
         cursor: pointer;    
-    
+        &:hover {
+            font-size: 30px;
+          }
     }
