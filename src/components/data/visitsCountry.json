@@ -1,0 +1,63 @@
+[
+    {
+      "country": "Germany",
+      "number": 1250,
+      "average_age": 50
+    },
+    {
+      "country": "France",
+      "number": 1450,
+      "average_age": 10
+    },
+    {
+      "country": "Spain",
+      "number": 550,
+      "average_age": 15
+    },
+    {
+      "country": "Greece",
+      "number": 1150,
+      "average_age": 60
+    },
+    {
+      "country": "Estland",
+      "number": 650,
+      "average_age": 10
+    },
+    {
+      "country": "Finnland",
+      "number": 750,
+      "average_age": 17
+    },
+    {
+      "country": "Germany",
+      "number": 850,
+      "average_age": 57
+    },
+    {
+      "country": "France",
+      "number": 350,
+      "average_age": 13
+    },
+    {
+      "country": "Spain",
+      "number": 150,
+      "average_age": 15
+    },
+    {
+      "country": "Greece",
+      "number": 650,
+      "average_age": 50
+    },
+    {
+      "country": "Estland",
+      "number": 1950,
+      "average_age": 15
+    },
+    {
+      "country": "Finnland",
+      "number": 1750,
+      "average_age": 17
+    }
+  ]
+  
